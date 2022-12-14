@@ -14,3 +14,6 @@
  Open the folder containtaing the project. Right click on the index.html file 
 Click the option 'Open with Google Chrome'
 
+## URL
+file:///Users/fromstrugglingtostrength/Downloads/index.html
+
